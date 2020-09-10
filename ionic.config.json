@@ -1,0 +1,7 @@
+{
+  "name": "navermap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
